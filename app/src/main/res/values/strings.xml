@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">adflyerRecom</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">ABOUT</string>
+    <string name="title_notifications">REVIEW</string>
+    <string name="title_recom_food">FOOD</string>
+    <string name="title_recom_fit">FITNESS</string>
+</resources>
